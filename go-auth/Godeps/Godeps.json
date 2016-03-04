@@ -25,6 +25,11 @@
 			"Rev": "e8d5414f0947014548c2334044a0fac13187dfee"
 		},
 		{
+			"ImportPath": "github.com/stretchr/testify",
+			"Comment": "Merge pull request #186 from MCProHosting/master",
+			"Rev": "089c7181b8c728499929ff09b62d3fdd8df8adff"
+		},
+		{
 			"ImportPath": "golang.org/x/crypto/bcrypt",
 			"Rev": "5dc8cb4b8a8eb076cbb5a06bc3b8682c15bdbbd3"
 		},
